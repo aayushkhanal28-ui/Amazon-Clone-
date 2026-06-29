@@ -20,7 +20,7 @@ html{
 }
 
 body{
-    background:#E3E6E6;
+    background:#517272;
 }
 
 /* ==========================================
@@ -340,11 +340,11 @@ a{
 
     display:flex;
 
-    gap:25px;
+    gap:30px;
 
     margin-left:25px;
 
-    font-size:14px;
+    font-size:15px;
 
 }
 
@@ -449,7 +449,7 @@ a{
 
 .box{
 
-    background:white;
+    background:rgb(156, 142, 149);
 
     min-height:420px;
 
@@ -677,7 +677,7 @@ footer{
 }
 
 .foot-panel1:hover{
-    background:#485769;
+    background:#525f6d;
 }
 
 /* Footer Links */
