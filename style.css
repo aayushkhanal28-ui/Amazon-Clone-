@@ -673,7 +673,7 @@ footer{
 
 .foot-panel1{
     background:#37475A;
-    color:#854747;
+    color:#583030;
     height:50px;
     display:flex;
     justify-content:center;
@@ -733,14 +733,13 @@ footer{
     align-items:center;
 }
 
-.footer-logo{
+ .footer-logo{
     width:120px;
     height:50px;
-    background:url("images/amazon_logo.png");
     background-repeat:no-repeat;
     background-size:contain;
     background-position:center;
-}
+ }
 
 /* Copyright */
 
